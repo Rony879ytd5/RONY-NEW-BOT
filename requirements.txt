@@ -1,0 +1,4 @@
+requests>=2.31,<3
+firebase-admin>=6.5,<8
+pyotp>=2.9,<3
+beautifulsoup4>=4.12,<5
